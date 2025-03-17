@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="[https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/415531361_7026612350753685_6377074449681565027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH64YPJk0FpGlC98r8y3c3tCnM4vtbOsFcKczi-1s6wV93Lq1_TYt3FgyWjIVigLKxmz7hTriWtadrkv-Qm1PrF&_nc_ohc=X628mwduXZIQ7kNvgGm0Dzl&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=AUf29krWUXDtde2EcJPXhCc&oh=00_AYCZwRM7yp3KjZCDKgpp2R0610IEgEK_PYFEKqGz1awqhw&oe=6774E5E2](https://scontent.fpew1-1.fna.fbcdn.net/v/t39.30808-6/474109102_9050413625040204_2926688874110170206_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGslYkw_eo9Sko87DdA6gyn2cNn-FtSr8fZw2f4W1Kvx6PzIMbAxPgiZ36-q8erb3IoQyEzGFOMdwIAgX13v7lN&_nc_ohc=ZqBgHxwmLycQ7kNvgE_F0Ss&_nc_oc=AdhE8qbjqRiBIKyuhbRhy3fYYOw0vwuoPB-R9iVawwWq2MgA2gKokhXMOFw-y_4EXgM&_nc_zt=23&_nc_ht=scontent.fpew1-1.fna&_nc_gid=DXVLcpe5cmYR95YM4WWTNQ&oh=00_AYEl8tHCZtguglwDiioDkLP8eZlDtu6m81gFHQIdOfHX-Q&oe=67DDBDF2)" alt="Profile Image" width="300" style="border-radius: 50%;">
+        <img src="https://scontent.fpew1-1.fna.fbcdn.net/v/t39.30808-6/474109102_9050413625040204_2926688874110170206_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGslYkw_eo9Sko87DdA6gyn2cNn-FtSr8fZw2f4W1Kvx6PzIMbAxPgiZ36-q8erb3IoQyEzGFOMdwIAgX13v7lN&_nc_ohc=ZqBgHxwmLycQ7kNvgE_F0Ss&_nc_oc=AdhE8qbjqRiBIKyuhbRhy3fYYOw0vwuoPB-R9iVawwWq2MgA2gKokhXMOFw-y_4EXgM&_nc_zt=23&_nc_ht=scontent.fpew1-1.fna&_nc_gid=DXVLcpe5cmYR95YM4WWTNQ&oh=00_AYEl8tHCZtguglwDiioDkLP8eZlDtu6m81gFHQIdOfHX-Q&oe=67DDBDF2" alt="Profile Image" width="300" style="border-radius: 50%;">
       </td>
       <td>
         <h1>Hi 👋, I'm Saadat Khalid</h1>
@@ -10,11 +10,10 @@
         <p>
           A passionate <b>Data Scientist</b> and <b>Web Developer</b> with a strong interest in transforming data into actionable insights and building seamless, user-friendly web applications. I specialize in:
         </p>
-        <ul>
-          <li>📊 Data Analysis & Machine Learning</li>
-          <li>💻 Web Development (Frontend & Backend)</li>
-          <li>✍️ Technical & Content Writing</li>
-        </ul>
+        
+       📊 Data Analysis & Machine Learning
+       💻 Web Development (Frontend & Backend)
+       ✍️ Technical & Content Writing
         <p>
           I believe in the mantra of <b>#KeepLearning</b> and <b>#KeepSupporting</b>, as I am committed to constant growth and uplifting others in the field. Feel free to connect and reach out for any collaboration or queries!
         </p>
