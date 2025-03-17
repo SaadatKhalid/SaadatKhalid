@@ -1,21 +1,22 @@
-<div align="center">
-  <table>
+<div align="center" style="font-family: Arial, sans-serif; color: #333;">
+  <table style="border-collapse: collapse; max-width: 800px; margin: 0 auto; background-color: #f9f9f9; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <tr>
-      <td>
-        <img src="https://scontent.fpew1-1.fna.fbcdn.net/v/t39.30808-6/474109102_9050413625040204_2926688874110170206_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGslYkw_eo9Sko87DdA6gyn2cNn-FtSr8fZw2f4W1Kvx6PzIMbAxPgiZ36-q8erb3IoQyEzGFOMdwIAgX13v7lN&_nc_ohc=ZqBgHxwmLycQ7kNvgE_F0Ss&_nc_oc=AdhE8qbjqRiBIKyuhbRhy3fYYOw0vwuoPB-R9iVawwWq2MgA2gKokhXMOFw-y_4EXgM&_nc_zt=23&_nc_ht=scontent.fpew1-1.fna&_nc_gid=DXVLcpe5cmYR95YM4WWTNQ&oh=00_AYEl8tHCZtguglwDiioDkLP8eZlDtu6m81gFHQIdOfHX-Q&oe=67DDBDF2" alt="Profile Image" width="300" style="border-radius: 50%;">
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://scontent.fpew1-1.fna.fbcdn.net/v/t39.30808-6/474109102_9050413625040204_2926688874110170206_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGslYkw_eo9Sko87DdA6gyn2cNn-FtSr8fZw2f4W1Kvx6PzIMbAxPgiZ36-q8erb3IoQyEzGFOMdwIAgX13v7lN&_nc_ohc=ZqBgHxwmLycQ7kNvgE_F0Ss&_nc_oc=AdhE8qbjqRiBIKyuhbRhy3fYYOw0vwuoPB-R9iVawwWq2MgA2gKokhXMOFw-y_4EXgM&_nc_zt=23&_nc_ht=scontent.fpew1-1.fna&_nc_gid=DXVLcpe5cmYR95YM4WWTNQ&oh=00_AYEl8tHCZtguglwDiioDkLP8eZlDtu6m81gFHQIdOfHX-Q&oe=67DDBDF2" alt="Profile Image" width="200" style="border-radius: 50%; border: 4px solid #007BFF;">
       </td>
-      <td>
-        <h1>Hi 👋, I'm Saadat Khalid</h1>
-        <h3>Aspiring Data Scientist & Web Developer</h3>
-        <p>
-          A passionate <b>Data Scientist</b> and <b>Web Developer</b> with a strong interest in transforming data into actionable insights and building seamless, user-friendly web applications. I specialize in:
+      <td style="padding: 20px; text-align: left;">
+        <h1 style="font-size: 2.5em; margin: 0; color: #007BFF;">Hi 👋, I'm Saadat Khalid</h1>
+        <h3 style="font-size: 1.5em; margin: 10px 0; color: #555;">Aspiring Data Scientist & Web Developer</h3>
+        <p style="font-size: 1.1em; line-height: 1.6;">
+          A passionate <b style="color: #007BFF;">Data Scientist</b> and <b style="color: #007BFF;">Web Developer</b> with a strong interest in transforming data into actionable insights and building seamless, user-friendly web applications. I specialize in:
         </p>
-        
-       📊 Data Analysis & Machine Learning
-       💻 Web Development (Frontend & Backend)
-       ✍️ Technical & Content Writing
-        <p>
-          I believe in the mantra of <b>#KeepLearning</b> and <b>#KeepSupporting</b>, as I am committed to constant growth and uplifting others in the field. Feel free to connect and reach out for any collaboration or queries!
+        <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+          <li style="margin: 10px 0;">📊 <b>Data Analysis & Machine Learning</b></li>
+          <li style="margin: 10px 0;">💻 <b>Web Development (Frontend & Backend)</b></li>
+          <li style="margin: 10px 0;">✍️ <b>Technical & Content Writing</b></li>
+        </ul>
+        <p style="font-size: 1.1em; line-height: 1.6;">
+          I believe in the mantra of <b style="color: #007BFF;">#KeepLearning</b> and <b style="color: #007BFF;">#KeepSupporting</b>, as I am committed to constant growth and uplifting others in the field. Feel free to connect and reach out for any collaboration or queries!
         </p>
       </td>
     </tr>
