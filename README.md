@@ -2,12 +2,22 @@
   <table>
     <tr>
       <td>
-        <img src="https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/415531361_7026612350753685_6377074449681565027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH64YPJk0FpGlC98r8y3c3tCnM4vtbOsFcKczi-1s6wV93Lq1_TYt3FgyWjIVigLKxmz7hTriWtadrkv-Qm1PrF&_nc_ohc=X628mwduXZIQ7kNvgGm0Dzl&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=AUf29krWUXDtde2EcJPXhCc&oh=00_AYCZwRM7yp3KjZCDKgpp2R0610IEgEK_PYFEKqGz1awqhw&oe=6774E5E2" alt="Profile Image" width="1000" style="border-radius: 50%;">
+        <img src="https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/415531361_7026612350753685_6377074449681565027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeH64YPJk0FpGlC98r8y3c3tCnM4vtbOsFcKczi-1s6wV93Lq1_TYt3FgyWjIVigLKxmz7hTriWtadrkv-Qm1PrF&_nc_ohc=X628mwduXZIQ7kNvgGm0Dzl&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=AUf29krWUXDtde2EcJPXhCc&oh=00_AYCZwRM7yp3KjZCDKgpp2R0610IEgEK_PYFEKqGz1awqhw&oe=6774E5E2" alt="Profile Image" width="300" style="border-radius: 50%;">
       </td>
       <td>
         <h1>Hi 👋, I'm Saadat Khalid</h1>
-        <h3>Aspiring Data Scientist & Tech Enthusiast</h3>
-        <p>A passionate data scientist dedicated to mastering machine learning techniques and continually expanding my knowledge base. I believe in the mantra of <b>#KeepLearning</b> and <b>#KeepSupporting</b>, as I am committed to constant growth and uplifting others in the field. Feel free to connect and reach out for any collaboration or queries!</p>
+        <h3>Aspiring Data Scientist & Web Developer</h3>
+        <p>
+          A passionate <b>Data Scientist</b> and <b>Web Developer</b> with a strong interest in transforming data into actionable insights and building seamless, user-friendly web applications. I specialize in:
+        </p>
+        <ul>
+          <li>📊 Data Analysis & Machine Learning</li>
+          <li>💻 Web Development (Frontend & Backend)</li>
+          <li>✍️ Technical & Content Writing</li>
+        </ul>
+        <p>
+          I believe in the mantra of <b>#KeepLearning</b> and <b>#KeepSupporting</b>, as I am committed to constant growth and uplifting others in the field. Feel free to connect and reach out for any collaboration or queries!
+        </p>
       </td>
     </tr>
   </table>
